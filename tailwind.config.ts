@@ -52,6 +52,10 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				'costco-red': 'hsl(var(--costco-red))',
+				'growth-green': 'hsl(var(--growth-green))',
+				'warning-orange': 'hsl(var(--warning-orange))',
+				'revenue-blue': 'hsl(var(--revenue-blue))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
