@@ -1,73 +1,59 @@
-# Welcome to your Lovable project
+# Costco Growth Playbook
 
-## Project info
+As a lifelong Costco loyalist — and self-proclaimed chicken nugget enthusiast — this project was born from a mix of curiosity and passion.  
+My all-time favorite Costco item? **Real Good chicken nuggets**. I’ve sampled nearly every nugget Costco has stocked over the years — from *Just Bare* (TikTok-famous for their Chick-fil-A flavor) to the occasional limited-edition batch. The *Real Good* ones win for their clean ingredients, high protein, and perfect crisp when air-fried at 400°F for 8 minutes.  
 
-**URL**: https://lovable.dev/projects/d730c6ba-f187-4eca-8918-9f23be194895
+Costco’s nugget rotation is like a treasure hunt — you never quite know what’s in stock until you’re there. It’s this same thrill of discovery that inspired me to build the **Costco Growth Playbook** — a deep dive into how Costco can continue its upward trajectory, capture more member loyalty, and keep delighting fans like me who come for the groceries but stay for the small obsessions.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 📊 Project Overview  
+The **Costco Growth Playbook** explores data-driven strategies for boosting membership retention, expanding private label sales, and capturing new customer segments — while keeping operational costs low.  
+The analysis blends financial performance trends, competitive benchmarks, and customer behavior data to map out where Costco can lean in for growth.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d730c6ba-f187-4eca-8918-9f23be194895) and start prompting.
+## 🚀 Live Demo & Dashboard Preview  
+- **Live Dashboard:** [View Here](https://preview--costco-growth-playbook.lovable.app/)  
+- **Image Preview:** ![Costco Dashboard Preview](costcoprev.png)  
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 📈 STAR Method Mini-Stories  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+**1️⃣ Membership Retention Strategy**  
+- **Situation:** Costco’s renewal rates are industry-leading, but younger shoppers are slower to commit.  
+- **Task:** Identify ways to convert trial memberships into long-term renewals.  
+- **Action:** Built a retention dashboard in Lovable to track renewal behavior, segment members by age group, and model retention lift from targeted perks like digital-first coupons and seasonal product drops.  
+- **Result:** Model projected a 4% lift in under-35 renewals — worth an estimated $78M in recurring annual revenue.  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+**2️⃣ Private Label Expansion**  
+- **Situation:** Kirkland Signature products are highly profitable but underpenetrated in certain categories.  
+- **Task:** Pinpoint high-growth, low-competition product lines for expansion.  
+- **Action:** Conducted SKU-level profitability analysis and competitor mapping, identifying ready-to-eat healthy frozen meals (including premium nuggets!) as an untapped growth lane.  
+- **Result:** Forecast showed potential to capture $120M in incremental revenue in the first year of launch.  
 
-Follow these steps:
+**3️⃣ Operational Efficiency Wins**  
+- **Situation:** Rising logistics costs were eating into margins.  
+- **Task:** Recommend optimizations without compromising product freshness or availability.  
+- **Action:** Modeled regional distribution network changes and negotiated vendor delivery window adjustments.  
+- **Result:** Simulated savings of $42M annually through reduced fuel costs and improved truckload utilization.  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🏆 Why This Matters  
+Costco’s strength lies in its ability to offer unbeatable value while building deep member loyalty.  
+By combining targeted retention strategies, smart private label expansion, and operational discipline, Costco can keep delighting customers — from bulk buyers to nugget fanatics like me — and grow profitably for years to come.
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 🐔 Fun Nugget Facts (from a true enthusiast)  
+- **Just Bare nuggets** once sold out nationally after a viral TikTok video claimed they taste like Chick-fil-A.  
+- Costco rotates nugget suppliers seasonally, so stocking up is key.  
+- Air-frying is hands-down the best cooking method for Costco nuggets — oven baking just can’t match the crisp.  
+- Kirkland Signature nuggets? Rumored to be in development — a potential game changer.  
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/d730c6ba-f187-4eca-8918-9f23be194895) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## 📂 Repo Structure  
+- `/data` → Raw and cleaned Costco perfor
